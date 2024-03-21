@@ -1,0 +1,39 @@
+{
+  "name": "aliquamiure",
+  "version": "1.0.0",
+  "description": "Web3 custom-element, brings the whole api and a bit more.",
+  "module": "custom-web3.js",
+  "main": "custom-web3.js",
+  "scripts": {
+    "c": "npm run compile",
+    "compile": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web3",
+    "custom",
+    "nisi",
+    "contract",
+    "et",
+    "simple",
+    "dolorem",
+    "fuga",
+    "illo"
+  ],
+  "engines": {
+    "node": ">=10.0"
+  },
+  "author": "AprilErnser",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^4.0.1"
+  },
+  "devDependencies": {
+    "@rollup/plugin-json": "^4.1.0",
+    "rollup": "^2.35.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KyleLittle/aliquamiure.git"
+  }
+}
